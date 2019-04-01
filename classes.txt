@@ -1,30 +1,30 @@
-0 	 n02419796 	 antelope
-1 	 n02131653 	 bear
-2 	 n02484322 	 monkey
-3 	 n02503517 	 elephant
-4 	 n02324045 	 rabbit, coney, cony
-5 	 n02118333 	 fox
-6 	 n01639765 	 frog, toad, toad frog, anuran, batrachian, salientian
-7 	 n02129604 	 tiger, Panthera tigris
-8 	 n02391049 	 zebra
-9 	 n01674464 	 lizard
-10 	 n02402425 	 cattle, cows, kine, oxen, Bos taurus
-11 	 n02129165 	 lion, king of beasts, Panthera leo
-12 	 n02437136 	 camel
-13 	 n01882714 	 koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
-14 	 n01662784 	 turtle
-15 	 n02444819 	 otter
-16 	 n02121808 	 domestic cat, house cat, Felis domesticus, Felis catus
-17 	 n02355227 	 squirrel
-18 	 n02398521 	 hippopotamus, hippo, river horse, Hippopotamus amphibius
-19 	 n02509815 	 lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens
-20 	 n02510455 	 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
-21 	 n02342885 	 hamster
-22 	 n02374451 	 horse, Equus caballus
-23 	 n02454379 	 armadillo
-24 	 n02395003 	 swine
-25 	 n01443537 	 goldfish, Carassius auratus
-26 	 n02084071 	 dog, domestic dog, Canis familiaris
-27 	 n01503061 	 bird
-28 	 n01982650 	 lobster
-29 	 n02411705 	 sheep
+0 	 n01443537 	 goldfish, Carassius auratus
+1 	 n01503061 	 bird
+2 	 n01639765 	 frog, toad, toad frog, anuran, batrachian, salientian
+3 	 n01662784 	 turtle
+4 	 n01674464 	 lizard
+5 	 n01882714 	 koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
+6 	 n01982650 	 lobster
+7 	 n02084071 	 dog, domestic dog, Canis familiaris
+8 	 n02118333 	 fox
+9 	 n02121808 	 domestic cat, house cat, Felis domesticus, Felis catus
+10 	 n02129165 	 lion, king of beasts, Panthera leo
+11 	 n02129604 	 tiger, Panthera tigris
+12 	 n02131653 	 bear
+13 	 n02324045 	 rabbit, coney, cony
+14 	 n02342885 	 hamster
+15 	 n02355227 	 squirrel
+16 	 n02374451 	 horse, Equus caballus
+17 	 n02391049 	 zebra
+18 	 n02395003 	 swine
+19 	 n02398521 	 hippopotamus, hippo, river horse, Hippopotamus amphibius
+20 	 n02402425 	 cattle, cows, kine, oxen, Bos taurus
+21 	 n02411705 	 sheep
+22 	 n02419796 	 antelope
+23 	 n02437136 	 camel
+24 	 n02444819 	 otter
+25 	 n02454379 	 armadillo
+26 	 n02484322 	 monkey
+27 	 n02503517 	 elephant
+28 	 n02509815 	 lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens
+29 	 n02510455 	 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
