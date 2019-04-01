@@ -1,30 +1,30 @@
-0 n02419796_obj
-1 n02131653_obj
-2 n02484322_obj
-3 n02503517_obj
-4 n02324045_obj
-5 n02118333_obj
-6 n01639765_obj
-7 n02129604_obj
-8 n02391049_obj
-9 n01674464_obj
-10 n02402425_obj
-11 n02129165_obj
-12 n02437136_obj
-13 n01882714_obj
-14 n01662784_obj
-15 n02444819_obj
-16 n02121808_obj
-17 n02355227_obj
-18 n02398521_obj
-19 n02509815_obj
-20 n02510455_obj
-21 n02342885_obj
-22 n02374451_obj
-23 n02454379_obj
-24 n02395003_obj
-25 n01443537_obj
-26 n02084071_obj
-27 n01503061_obj
-28 n01982650_obj
-29 n02411705_obj
+0 	 n02419796 	 antelope
+1 	 n02131653 	 bear
+2 	 n02484322 	 monkey
+3 	 n02503517 	 elephant
+4 	 n02324045 	 rabbit, coney, cony
+5 	 n02118333 	 fox
+6 	 n01639765 	 frog, toad, toad frog, anuran, batrachian, salientian
+7 	 n02129604 	 tiger, Panthera tigris
+8 	 n02391049 	 zebra
+9 	 n01674464 	 lizard
+10 	 n02402425 	 cattle, cows, kine, oxen, Bos taurus
+11 	 n02129165 	 lion, king of beasts, Panthera leo
+12 	 n02437136 	 camel
+13 	 n01882714 	 koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
+14 	 n01662784 	 turtle
+15 	 n02444819 	 otter
+16 	 n02121808 	 domestic cat, house cat, Felis domesticus, Felis catus
+17 	 n02355227 	 squirrel
+18 	 n02398521 	 hippopotamus, hippo, river horse, Hippopotamus amphibius
+19 	 n02509815 	 lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens
+20 	 n02510455 	 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
+21 	 n02342885 	 hamster
+22 	 n02374451 	 horse, Equus caballus
+23 	 n02454379 	 armadillo
+24 	 n02395003 	 swine
+25 	 n01443537 	 goldfish, Carassius auratus
+26 	 n02084071 	 dog, domestic dog, Canis familiaris
+27 	 n01503061 	 bird
+28 	 n01982650 	 lobster
+29 	 n02411705 	 sheep
